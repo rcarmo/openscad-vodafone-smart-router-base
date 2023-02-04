@@ -4,7 +4,11 @@ This is a replacement part for the Vodafone Smart Router (of Sagem manufacture) 
 
 This device has a built-in ONT, 4 Gigabit Ethernet ports, internal Wi-Fi, voice, USB 2.0 and coax, but also has a particularly poorly thought out base that prevents you from mounting it flush against a wall or placing it horizontally, so I designed this to replace the round "foot".
 
+![](screenshot.png)
+
 I recommend adding a little clearance (~2mm or so) to this by sticking on some adhesive rubber feet (there are a few plates for that purpose), so that there is enough airflow to cool the device by convection.
+
+Also, if you happen to have any red PETG (Pantone 485, of course), I would recommend using that as well.
 
 Printing suitable wall mount clips is left as an exercise to the reader (or a later revision).
 
