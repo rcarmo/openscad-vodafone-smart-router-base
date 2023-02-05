@@ -140,7 +140,7 @@ module wide_end()
         translate([ -3, full_length - large_radius, 0 ]) cylinder(wh_plus + 0.1, large_radius - 6, large_radius - 6);
 
         // horizontal cylinder for smooth inset
-        translate([ -25, full_length + large_radius - ext_thickness - 1.4, 18 ]) rotate([ 0, 90, 0 ])
+        translate([ -25, full_length + large_radius - ext_thickness - 1, 18 ]) rotate([ 0, 90, 0 ])
             cylinder(50, large_radius, large_radius);
         translate([ 0, full_length, 2 ]) fiber_entry_cut();
     }
