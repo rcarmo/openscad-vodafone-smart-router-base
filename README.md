@@ -12,6 +12,12 @@ Also, if you happen to have any red PETG (Pantone 485, of course), I would recom
 
 Printing suitable wall mount clips is left as an exercise to the reader (or a later revision).
 
+## Bonus
+
+Since I'm mounting this flush to the wall of a utility closet (that I can drill into), I also designed a very simple, slim brace that slots into the top groove--this is enough for the router not to topple outward, although your mileage may vary:
+
+![](brace.jpg)
+
 ## Licensing
 
 This uses Voronoi tessellation scripts by Felipe Sanches <juca@members.fsf.org>, which are GPLv3 and bundled for convenience.
